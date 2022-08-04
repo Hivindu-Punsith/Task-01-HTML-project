@@ -1,0 +1,191 @@
+@media (max-width:375px) {
+    .top-topic {
+        margin: 50px;
+        margin-top: 50px;
+        font-family: Arial, sans-serif;
+        font-size: 1px;
+    }
+}
+
+.top-nav {
+    margin-top: 30px;
+}
+
+.top-topic {
+    margin: 50px;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+.top-drop {
+    color: black;
+    margin: 30px;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+}
+
+#hr {
+    border: 0;
+    clear: both;
+    display: block;
+    background-color: black;
+    height: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    opacity: 20%;
+}
+
+#hr-inner {
+    border: 0;
+    clear: both;
+    display: block;
+    background-color: black;
+    height: 1px;
+    margin-right: 50px;
+    opacity: 20%;
+}
+
+
+#hr2 {
+    border: 0;
+    clear: both;
+    display: block;
+    background-color: black;
+    height: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+    opacity: 20%;
+}
+
+.bottom-nav {
+    margin-top: 10px;
+}
+
+.search {
+    width: 500px;
+    height: 43px;
+    border-color: rgba(0, 162, 255, 0.849);
+    border-radius: 3px;
+}
+
+.srch-btn {
+    border-radius: 3px;
+    width: 130px;
+    background-color: rgba(0, 102, 255, 0.829);
+    height: 42px;
+    border-color: rgba(0, 102, 255, 0.829);
+    color: white;
+    margin-left: 20px;
+}
+
+.call-btn {
+    border-radius: 3px;
+    width: 150px;
+    height: 42px;
+    border-color: red;
+    color: red;
+    margin-left: 20px;
+}
+
+.mid-div {
+    margin-top: 30px;
+}
+
+.mid-nav {
+    margin: 20px;
+}
+
+.img-01 {
+    margin-top: 30px;
+    /* background-image: url(../images/back.jpg) ; */
+    background-color: rgba(0, 119, 255, 0.329);
+    height: 600px;
+}
+
+.buy-btn {
+    cursor: pointer;
+    border: 1px solid white;
+    background-color: transparent;
+    width: 150px;
+    height: 42px;
+    color: white;
+}
+
+.div-work {
+    height: 665px;
+}
+
+.read-btn {
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: transparent;
+    width: 150px;
+    height: 42px;
+    color: black;
+}
+
+.img-02 {
+    margin-top: 30px;
+    /* background-image: url(../images/back.jpg) ; */
+    background-color: rgba(174, 0, 255, 0.671);
+    height: 525x;
+}
+
+.nav-bottom {
+    height: 600px;
+    background-color: #004f9ead;
+}
+
+.email-input {
+    border: 1px solid white;
+    background-color: transparent;
+    width: 500px;
+    height: 100px;
+    color: white;
+}
+
+.cards-div {
+    height: 670px;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.our {
+    width: 250px;
+}
+
+.feature {
+    margin: 50px;
+    margin-top: 100px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cards-div2 {
+    height: 670px;
+    margin-top: 50px;
+}
+
+.signin-btn {
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+    border-color: red;
+    color: red;
+    margin-left: 20px;
+}
+
+.width {
+    width: 300px;
+}
+
+.inner-product {
+    margin-top: 30px;
+    height: 600px;
+
+}
